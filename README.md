@@ -44,6 +44,7 @@ In this README, you will find a table of contents linking to a series of guides 
   * **Git and GitHub**
     * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
     * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
+    * [Pull Request Activity](/the_command_line_git_and_github/pull_request_activity.md "Pull Request Activity")
 
 ### Workspace and Account Setup
   * **Weekend One**
@@ -107,3 +108,4 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Add Todos to the Database With an HTML Form](/back_end_development/add_todos_to_the_database_with_an_html_form.md "Add Todos to the Database With an HTML Form")
   * [Edit, Update, and Delete](/back_end_development/edit_update_and_delete.md "Edit, Update, and Delete")
   * [Back to the Todo Index](/back_end_development/back_to_the_todo_index.md "Back to the Index")
+  * [The Root Route](/back_end_development/the_root_route.md "The Root Route")
